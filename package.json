@@ -1,0 +1,5 @@
+{
+  "name": "cnpj-mock-api",
+  "version": "1.0.0",
+  "description": "Mock API de validação de CNPJ na Receita Federal"
+}
